@@ -12,7 +12,7 @@
     "lint:eslint": "eslint . --fix",
     "lint": "run-s lint:*",
     "format": "prettier --write src/",
-    “https://hughestt.github.io/vite-deploy-sample”
+    "https://hughestt.github.io/vite-deploy-sample"
   },
   "dependencies": {
     "axios": "^1.7.7",
